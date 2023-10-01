@@ -1,0 +1,1 @@
+the result of adding the first and second files are : this is the first file,this is the second file
